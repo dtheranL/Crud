@@ -89,6 +89,7 @@ const tareasPendientes = tareasTotales - tareasCompletadas;
 
         <p className="descripcion">
           Organiza tus actividades de forma sencilla
+           (Clase Vercel)
         </p>
 
         <div className="entrada-tarea">
